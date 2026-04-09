@@ -18,6 +18,7 @@ public class CalculatorApp {
         System.out.println("The product of your 2 numbers is: " + product);
 
 
+
     }
 
 }
